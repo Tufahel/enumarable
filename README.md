@@ -1,4 +1,4 @@
-# Morse Code
+# Enumarable
 
 > This project is about how to use module inside a class.
 
